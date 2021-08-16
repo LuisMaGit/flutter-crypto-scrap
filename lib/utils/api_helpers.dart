@@ -1,6 +1,6 @@
 abstract class NmonicsApi {
   //nomics API KEY
-  static const nmonicsKey = '43f547b65ae63077ace9a3f6f65c825a';
+  static const nmonicsKey = 'PUT YOUR NMONICS API KEY HERE';
   //nomics API KEY
   static const url = 'api.nomics.com';
   static const endpoint = '/v1/currencies/sparkline';

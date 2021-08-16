@@ -12,4 +12,4 @@
 * Animations
 
 ### Note: 
-For Price History Tracker to work you need to provide your own [api key](https://p.nomics.com/cryptocurrency-bitcoin-api) in`[scrap\lib\utils\api_helpers.dart]`. The tracker wont work in the [web example](https://luismagit.github.io/#/), but similiar behavior can be found [here](https://github.com/LuisMaGit/flutter_crypto)
+For price history tracker to work you need to provide your own [api key](https://p.nomics.com/cryptocurrency-bitcoin-api) in `[scrap\lib\utils\api_helpers.dart]`. The tracker won' t work in the [web example](https://luismagit.github.io/#/), but similiar behavior can be found [here](https://github.com/LuisMaGit/flutter_crypto)

@@ -1,16 +1,15 @@
-# scrap
+# Crypto Scrap
+## A flutter template app for cryptocurrency trading
 
-A new Flutter project.
+### Check the project [here](https://luismagit.github.io/#/)
 
-## Getting Started
+## Features:
+* MVVM Architecture
+* Light/Dark Mode
+* Internationalization (Spanish, English)
+* Responsive (Web ready)
+* Cryptocurrency history price tracker with graph
+* Animations
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Note: 
+For Price History Tracker to work you need to provide your own [api key](https://p.nomics.com/cryptocurrency-bitcoin-api) in`[scrap\lib\utils\api_helpers.dart]`. The tracker wont work in the [web example](https://luismagit.github.io/#/), but similiar behavior can be found [here](https://github.com/LuisMaGit/flutter_crypto)
